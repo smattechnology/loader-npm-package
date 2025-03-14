@@ -1,5 +1,5 @@
 {
-  "name": "loader",
+  "name": "@smattechnology/loader",
   "version": "1.0.0",
   "description": "A loader with ui and basic functions",
   "keywords": [

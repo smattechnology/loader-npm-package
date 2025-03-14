@@ -1,0 +1,23 @@
+{
+  "name": "@smattechnology/loader",
+  "version": "1.0.0",
+  "description": "A loader with ui and basic functions",
+  "keywords": [
+    "loader"
+  ],
+  "homepage": "https://github.com/smattechnology/loader-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/smattechnology/loader-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smattechnology/loader-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "SMAT Technology",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
